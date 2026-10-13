@@ -1,0 +1,14 @@
+{
+  "name": "Mes Faidas",
+  "short_name": "Mes Faidas",
+  "description": "Carnet de zikr personnel : rituels par sourate et par besoin, horaires et rappel de la prière, guide animé de la salât.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDF1EC",
+  "theme_color": "#0F6B52",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
